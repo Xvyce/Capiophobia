@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: dfd3793fe346882488b4c86964e415e8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sylfaen
+  fontNames:
+  - Sylfaen
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7ce005b18af4e7d43a84b843665f9e98, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
